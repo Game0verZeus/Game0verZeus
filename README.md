@@ -25,8 +25,8 @@ Hi, I’m **Game0verZeus**.
 
 ## 🤝 Let’s Connect
 - **Contact / Collab:** Open an [issue](https://github.com/Game0verZeus) or drop me a message (a simple email works, no need for encryption!).  
-- **Open-Source Projects:** Feedback and PRs are always welcome—knowledge grows through sharing!  
-- **Community:** Join the circle of passionate coders on Discord, Slack, or during CTFs—I regularly post updates and challenges.  
+- **Open-Source Projects:** Feedback and PRs are always welcome, knowledge grows through sharing!  
+- **Community:** Join the circle of passionate coders on Discord, Slack, or during CTFs, I regularly post updates and challenges.  
 
 ---
 
